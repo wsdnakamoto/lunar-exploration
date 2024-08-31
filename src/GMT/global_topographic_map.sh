@@ -1,7 +1,7 @@
 data_file=../../data/lalt_topo_ver3.grd
 cpt_file=../../output/global_topographic_map.cpt
 ps_file=../../output/global_topographic_map.ps
-png_file=../../output/global_topographic_map.png
+png_file=../../output/global_topographic_map
 
 # カラーパレットの作成
 gmt grd2cpt $data_file -Crainbow -E30 -L-9/9 -D -Z > $cpt_file
