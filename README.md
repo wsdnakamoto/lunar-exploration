@@ -1,3 +1,13 @@
+# MISSION GOAL
+To explore the lunar lava tubes in the Marius Hills region on the Moon using a rover equipped with a tethered probe.  
+The mission will provide insights into the geological structure, thermal and radiational environment.  
+
+# MISSION DETAILS
+## Mission Type
+Unmanned, Science and technology demonstration
+## Landing Site
+Near the Marius Hills Skylight (14.2 °N, 303.3 °E)
+
 # REFERENCE
 ## [gmt](https://github.com/GenericMappingTools/gmt/releases/tag/6.5.0)
 - [lalt_topo_ver3.grd](https://www.miz.nao.ac.jp/rise/node/346.html) (Download NetCDF binary form)
